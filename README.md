@@ -1,4 +1,4 @@
-# Sales_and_Finance_Analytical_Project_For_AtliQ_hardwares
+# Sales_and_Finance_Analytical_Project_AtliQ_Hardwares
 
 ## Table of Contents
 
