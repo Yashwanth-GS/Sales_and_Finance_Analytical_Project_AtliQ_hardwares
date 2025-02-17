@@ -207,6 +207,6 @@ Financial reports are critical tools for thoroughly assessing economic trends, d
 
 If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [yashgs97312@gmail.com].
 
-Thank you for exploring the ICC Men's T20 World Cup 2022 Analysis Project! We hope you find it useful and informative.
+Thank you for exploring the **Sales_and_Finance_Analytical_Project_AtliQ_Hardwares** Project! We hope you find it useful and informative.
 
 Happy Analyzing!
